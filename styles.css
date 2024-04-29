@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.weather-container {
+  margin-top: 20px;
+}
+
+#city-input {
+  padding: 10px;
+  width: 200px;
+}
+
+#search-btn {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+#weather-info {
+  margin-top: 20px;
+}
